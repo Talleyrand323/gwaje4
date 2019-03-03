@@ -1,0 +1,1 @@
+web: gunicorn chanjong.wsgi --log-file -
